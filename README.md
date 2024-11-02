@@ -92,7 +92,7 @@ Includes visual analysis of:
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please feel free to submit a Pull Request. Hoping to make this ECDSA Security Suite a complete vulnerability Detection program!
 
 ## License
 
