@@ -26,9 +26,9 @@ A comprehensive security analysis tool for ECDSA signatures, detecting various v
 
 ### Usage
 # Clone the repository
-git clone https://github.com/yourusername/ECDSA-Security-Analysis-Suite
-cd ECDSA-Security-Analysis-Suite
-python enhanced_analysis.py
+- git clone https://github.com/yourusername/ECDSA-Security-Analysis-Suite
+- cd ECDSA-Security-Analysis-Suite
+- python enhanced_analysis.py
 
 
 ### Dependencies
@@ -47,9 +47,9 @@ python3 enhanced_analysis.py
 
 ### Output
 
-╔══════════════════════════════════════════╗
-║     ECDSA SIGNATURE SECURITY ANALYSIS    ║
-╚══════════════════════════════════════════╝
+- ╔══════════════════════════════════════════╗
+- ║     ECDSA SIGNATURE SECURITY ANALYSIS    ║
+- ╚══════════════════════════════════════════╝
 
 ![image](https://github.com/user-attachments/assets/bc56d304-2fae-497f-99db-c0c6dce7f66c)
 
