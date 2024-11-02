@@ -48,7 +48,7 @@ python3 enhanced_analysis.py
 ### Output
 
 - ╔══════════════════════════════════════════╗
-- ║     ECDSA SIGNATURE SECURITY ANALYSIS    ║
+- ║     ECDSA SIGNATURE SECURITY ANALYSIS       ║
 - ╚══════════════════════════════════════════╝
 
 ![image](https://github.com/user-attachments/assets/bc56d304-2fae-497f-99db-c0c6dce7f66c)
