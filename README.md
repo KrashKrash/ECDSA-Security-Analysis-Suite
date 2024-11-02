@@ -24,15 +24,12 @@ A comprehensive security analysis tool for ECDSA signatures, detecting various v
 - Cache Timing Analysis
 - Comprehensive Risk Assessment
 
-## Installation
-
-```bash
+### Usage
 # Clone the repository
-git clone https://github.com/yourusername/ecdsa-security-analysis.git
+git clone https://github.com/yourusername/ECDSA-Security-Analysis-Suite
+cd ECDSA-Security-Analysis-Suite
+python enhanced_analysis.py
 
-# Install required packages
-pip install -r requirements.txt
-```
 
 ### Dependencies
 - ecdsa
